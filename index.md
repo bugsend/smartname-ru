@@ -10,3 +10,8 @@ bugsend@hotmail.com
 
 The app my developed and maintained in my spare time.
 
+<br/>
+<br/>
+
+### Privacy disclaimer
+This application is distributed as a paid app. All details about its internal logic is not a subject for distribution or copying.
